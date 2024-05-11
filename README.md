@@ -1,2 +1,3 @@
 # codeata-work
-this is the first repo
+this is the first  
+the authour here is me 
